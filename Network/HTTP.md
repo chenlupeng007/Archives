@@ -156,5 +156,5 @@ Cookie 主要用于以下三个方面:
       当你打开含有了这张图片的 HTML 页面时, 如果你之前已经登录了你的银行帐号并且 Cookie 仍然有效(还没有其它验证步骤), 你银行里的钱很可能会被自动转走.
 ### GET 和 POST 区别
 <center>
-  <img src='./Diff-Get-Post.png' />
+  <img src='./Img/Diff-Get-Post.png' />
 </center>

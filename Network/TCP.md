@@ -74,5 +74,5 @@ TCP 次握手的第三次的 ACK 包丢失会怎样?
 这个是完整过程示意图:
 
 <center>
-  <img src='./TCP.png' >
+  <img src='./Img/TCP.png' >
 </center>
